@@ -2,6 +2,10 @@
 
 **Type a company name. Get a sourced one-page brief in about 20 seconds.**
 
+Are you an investor, analyst, founder, salesperson, job seeker or journalist? Get a sourced company snapshot in about a minute.
+
+**Who it's for:** Investors (VCs, angels, private equity) · Analysts and consultants · Corporate deal and strategy teams · Sales and marketing teams · Founders · Job seekers and recruiters · Journalists and podcasters
+
 ![Example report: a brief on Revolut with key figures, key points, competitors and sources](examples/report-screenshot.png)
 
 ```
