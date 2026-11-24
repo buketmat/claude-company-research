@@ -1,0 +1,442 @@
+{
+  "sections": {
+    "company": {
+      "name": "Profound",
+      "website": "https://www.tryprofound.com",
+      "linkedin_url": "https://linkedin.com/company/tryprofound",
+      "positioning": {
+        "value": "Pitches itself as GenAI marketing intelligence for enterprise brands in AI discovery",
+        "status": "single_source",
+        "refs": [
+          1
+        ],
+        "note": ""
+      },
+      "one_liner": {
+        "value": "AI visibility platform showing enterprise brands how AI engines surface them",
+        "status": "single_source",
+        "refs": [
+          1,
+          2
+        ],
+        "note": ""
+      },
+      "founded": {
+        "value": "2024",
+        "status": "single_source",
+        "refs": [
+          1
+        ],
+        "note": "August 2024 per secondary sources"
+      },
+      "hq": {
+        "value": "New York, NY",
+        "status": "single_source",
+        "refs": [
+          2
+        ],
+        "note": "One source lists Rockville, MD"
+      },
+      "ceo": {
+        "value": "James Cadwallader",
+        "status": "single_source",
+        "refs": [
+          2
+        ],
+        "note": "Co-founder and CEO; co-founder Dylan Babbs is CTO"
+      },
+      "employees": {
+        "value": "~400",
+        "status": "single_source",
+        "refs": [
+          2
+        ],
+        "note": "Sep 2026 estimate; sources vary"
+      },
+      "business_model": {
+        "value": null,
+        "status": "not_found",
+        "refs": [],
+        "note": ""
+      },
+      "customers": {
+        "value": "1,000+ enterprise customers",
+        "status": "single_source",
+        "refs": [
+          2
+        ],
+        "note": "Oct 2025 figure; other sources cite 2,500+"
+      },
+      "products": [
+        {
+          "name": "Answer Engine Insights",
+          "what": "Brand visibility, citations, sentiment across AI answer engines",
+          "fact": {
+            "value": "Listed product",
+            "status": "verified",
+            "refs": [
+              3
+            ],
+            "note": ""
+          }
+        },
+        {
+          "name": "Agent Analytics",
+          "what": "Tracks AI crawler activity and AI-referred traffic on brand domains",
+          "fact": {
+            "value": "Listed in product terms",
+            "status": "verified",
+            "refs": [
+              3
+            ],
+            "note": ""
+          }
+        },
+        {
+          "name": "AI Marketer and Agents",
+          "what": "Brand-aware AI agents for research, content and marketing workflows",
+          "fact": {
+            "value": "Named offering",
+            "status": "single_source",
+            "refs": [
+              1
+            ],
+            "note": ""
+          }
+        },
+        {
+          "name": "FactCheck",
+          "what": "Checks AI-generated claims about a brand",
+          "fact": {
+            "value": "Named offering",
+            "status": "single_source",
+            "refs": [
+              1
+            ],
+            "note": ""
+          }
+        }
+      ]
+    },
+    "money": {
+      "listed": {
+        "is_listed": false
+      },
+      "revenue": {
+        "value": "$11M",
+        "status": "single_source",
+        "refs": [
+          4
+        ],
+        "note": "third-party aggregator; company gives no figure",
+        "metric": "estimate",
+        "period": "Feb 2026"
+      },
+      "profit": {
+        "value": null,
+        "status": "not_found",
+        "refs": [],
+        "note": ""
+      },
+      "market_cap_or_valuation": {
+        "value": "$1.8B",
+        "status": "verified",
+        "refs": [
+          5
+        ],
+        "note": "post-money, Series D, Sep 2026"
+      },
+      "total_funding": {
+        "value": "$155M",
+        "status": "single_source",
+        "refs": [
+          6
+        ],
+        "note": "total as of Series C, Feb 2026"
+      },
+      "last_round": {
+        "value": "$180M Series D",
+        "status": "verified",
+        "refs": [
+          5
+        ],
+        "note": "led by Sequoia Capital and Kleiner Perkins"
+      },
+      "last_round_date": "2026-09",
+      "down_round": {
+        "value": "No",
+        "status": "verified",
+        "refs": [
+          5,
+          7
+        ],
+        "note": "Series D $1.8B vs Series C $1B"
+      },
+      "investors": {
+        "value": "Sequoia Capital, Kleiner Perkins, Lightspeed Venture Partners",
+        "status": "verified",
+        "refs": [
+          5,
+          7,
+          6
+        ],
+        "note": "Lightspeed led Series C; Sequoia and Kleiner led Series D"
+      }
+    },
+    "news": {
+      "items": [
+        {
+          "date": "2026-09-16",
+          "headline": "Reported $180 million Series D round for Profound",
+          "fact": {
+            "value": "Series D of $180 million reported in September 2026",
+            "status": "single_source",
+            "refs": [
+              8
+            ],
+            "note": "Tier 3 aggregator snippet only; not confirmed by a primary source"
+          }
+        },
+        {
+          "date": "2026-02-24",
+          "headline": "Profound raised $96 million to help brands stay visible in AI search",
+          "fact": {
+            "value": "Profound raised $96 million, reported by Fortune, 2026-02-24",
+            "status": "single_source",
+            "refs": [
+              7
+            ],
+            "note": ""
+          }
+        }
+      ],
+      "red_flags": []
+    },
+    "market": {
+      "category": {
+        "value": "AI search visibility (answer engine optimization, AEO) tools",
+        "status": "single_source",
+        "refs": [
+          9,
+          10
+        ],
+        "note": ""
+      },
+      "position": {
+        "value": null,
+        "status": "not_found",
+        "refs": [],
+        "note": ""
+      },
+      "competitors": [
+        {
+          "name": "Scrunch AI",
+          "website": "scrunch.ai",
+          "why": "AI search visibility tool compared head-to-head with Profound",
+          "fact": {
+            "value": "Named as a head-to-head comparison on G2",
+            "status": "single_source",
+            "refs": [
+              9
+            ],
+            "note": ""
+          }
+        },
+        {
+          "name": "Peec AI",
+          "website": "peec.ai",
+          "why": "AI answer visibility tracking tool for brands",
+          "fact": {
+            "value": "Listed as an alternative on Capterra",
+            "status": "single_source",
+            "refs": [
+              10
+            ],
+            "note": ""
+          }
+        },
+        {
+          "name": "AthenaHQ",
+          "website": "athenahq.ai",
+          "why": "AI search visibility platform for brand monitoring",
+          "fact": {
+            "value": "Listed as an alternative on Capterra",
+            "status": "single_source",
+            "refs": [
+              10
+            ],
+            "note": ""
+          }
+        },
+        {
+          "name": "BrightEdge",
+          "website": "brightedge.com",
+          "why": "Enterprise SEO and AI search visibility platform",
+          "fact": {
+            "value": "Named as a head-to-head comparison on G2",
+            "status": "single_source",
+            "refs": [
+              9
+            ],
+            "note": ""
+          }
+        }
+      ],
+      "edge": [
+        {
+          "claim": "Says it is a G2 Winter 2026 Leader for AEO",
+          "fact": {
+            "value": "Self-reported G2 Winter 2026 Leader for AEO",
+            "status": "verified",
+            "refs": [
+              11
+            ],
+            "note": ""
+          }
+        },
+        {
+          "claim": "Says it was named a Top 50 AI Product in G2 2026",
+          "fact": {
+            "value": "Self-reported Top 50 AI Product, G2 Best Software 2026, ranked #34",
+            "status": "verified",
+            "refs": [
+              11
+            ],
+            "note": ""
+          }
+        }
+      ]
+    }
+  },
+  "highlights": [
+    "Raised a $180M Series D at $1.8B valuation in Sep 2026, co-led by Sequoia and Kleiner Perkins",
+    "Headcount estimates range from 271 to about 400 across sources",
+    "Series C in Feb 2026 raised $96M at $1B valuation",
+    "Series D valued Profound 1.8x its Series C within seven months",
+    "Aggregator estimates range from $6.8M to $11M revenue for 2025-2026"
+  ],
+  "not_found": [
+    "Business model",
+    "Official customer list on tryprofound.com",
+    "Exact founding date confirmed by company",
+    "Net income or profit for any period",
+    "Audited or company-reported revenue",
+    "Stock ticker or IPO (private company)",
+    "Exact date of Series D announcement beyond September 2026",
+    "No layoffs or job cuts found for tryprofound.com in the last 24 months",
+    "No founder or CEO departure found for tryprofound.com",
+    "No lawsuit, regulator fine, probe, breach or short-seller report found for tryprofound.com; 2025 restatement and investor probes found relate to Profound Medical Corp (PROF), a different company and excluded",
+    "Estee Lauder portfolio partnership (Sep 2026) and Bazaarvoice partnership (Nov 2026) appeared only on aggregator sites with no usable primary source, so not included",
+    "Pricing change on the pricing page (Nov 2026) found only on a pricing-tracker site, not included",
+    "Market share or revenue share in AEO tools",
+    "Third-party analyst ranking of Profound as market leader"
+  ],
+  "sources": [
+    {
+      "id": 1,
+      "url": "https://craft.co/profound-usa",
+      "host": "craft.co",
+      "tier": 3,
+      "title": "Craft.co - Profound",
+      "publisher": "craft.co",
+      "published": null
+    },
+    {
+      "id": 2,
+      "url": "https://siliconvalleyinvestclub.com/companies/tryprofound/",
+      "host": "siliconvalleyinvestclub.com",
+      "tier": 3,
+      "title": "Silicon Valley Investclub - Profound",
+      "publisher": "siliconvalleyinvestclub.com",
+      "published": null
+    },
+    {
+      "id": 3,
+      "url": "https://www.tryprofound.com/legal/product-terms",
+      "host": "tryprofound.com",
+      "tier": 1,
+      "title": "Profound Product Terms",
+      "publisher": "tryprofound.com",
+      "published": null
+    },
+    {
+      "id": 4,
+      "url": "https://multiples.vc/private-comps/profound",
+      "host": "multiples.vc",
+      "tier": 3,
+      "title": "Multiples.vc: Profound revenue and valuation",
+      "publisher": "multiples.vc",
+      "published": null
+    },
+    {
+      "id": 5,
+      "url": "https://www.tryprofound.com/blog/series-d",
+      "host": "tryprofound.com",
+      "tier": 1,
+      "title": "Profound Series D blog",
+      "publisher": "tryprofound.com",
+      "published": null
+    },
+    {
+      "id": 6,
+      "url": "https://siliconangle.com/?p=731970",
+      "host": "siliconangle.com",
+      "tier": 2,
+      "title": "SiliconANGLE: Profound $96M at $1B valuation",
+      "publisher": "siliconangle.com",
+      "published": null
+    },
+    {
+      "id": 7,
+      "url": "https://fortune.com/2026/02/24/exclusive-as-ai-threatens-search-profound-raises-96-million-to-help-brands-stay-visible/",
+      "host": "fortune.com",
+      "tier": 2,
+      "title": "Fortune: Profound raises $96M",
+      "publisher": "fortune.com",
+      "published": null
+    },
+    {
+      "id": 8,
+      "url": "https://www.mrweb.com/drno/news40330.htm",
+      "host": "mrweb.com",
+      "tier": 3,
+      "title": "Daily Research News Online",
+      "publisher": "mrweb.com",
+      "published": null
+    },
+    {
+      "id": 9,
+      "url": "https://g2.com/products/profound/competitors/alternatives",
+      "host": "g2.com",
+      "tier": 3,
+      "title": "Top 10 Profound Alternatives & Competitors - G2",
+      "publisher": "g2.com",
+      "published": null
+    },
+    {
+      "id": 10,
+      "url": "https://www.capterra.com.sg/alternatives/1096603/Profound",
+      "host": "capterra.com.sg",
+      "tier": 3,
+      "title": "Profound Alternatives - Capterra",
+      "publisher": "capterra.com.sg",
+      "published": null
+    },
+    {
+      "id": 11,
+      "url": "https://www.tryprofound.com/ai-instructions",
+      "host": "tryprofound.com",
+      "tier": 1,
+      "title": "Official information about Profound",
+      "publisher": "tryprofound.com",
+      "published": null
+    }
+  ],
+  "stats": {
+    "verified": 8,
+    "single_source": 18,
+    "not_found": 3,
+    "sources": 11
+  },
+  "problems": []
+}

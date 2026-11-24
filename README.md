@@ -33,13 +33,13 @@ Then restart Claude Code (or run `/reload-plugins`).
 | `/company-research:deep-dive <company>` | A full, in-depth company research report | Coming soon |
 
 ```
-/company-research:brief Mastercard
+/company-research:brief Profound
 /company-research:brief linear.app
 ```
 
 Or just ask: *"Give me a brief on Revolut."*
 
-The report is saved in a `company-briefs/<company>-<date>/` folder inside the folder you're working in, and opens in your browser. See finished examples in [`examples/`](examples/): Mastercard (listed), Revolut (late-stage private), Linear (startup, no red flags) and Bolt (startup with red flags).
+The report is saved in a `company-briefs/<company>-<date>/` folder inside the folder you're working in, and opens in your browser. See finished examples in [`examples/`](examples/): Revolut (late-stage private), Profound (fast-growing AI startup), Linear (startup, no red flags) and Bolt (startup with red flags).
 
 ## What's in the report
 
