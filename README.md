@@ -1,10 +1,16 @@
 # Brief Company Research Agent for Claude Code
 
-Type a company name and get a brief, sourced research report: what it does, the numbers, main competitors, recent news and red flags. Four fast AI agents search in parallel, and the report opens in your browser right away and fills in live, complete in about 20 seconds, with PDF and Word downloads.
+**Type a company name. Get a sourced one-page brief in about 20 seconds.**
+
+![Example report: a brief on Revolut with key figures, key points, competitors and sources](examples/report-screenshot.png)
+
+```
+/brief-company-research-agent:brief Revolut
+```
+
+What it does, the numbers, main competitors, recent news and red flags. Four fast AI agents search in parallel, and the report opens in your browser right away and fills in live, with PDF and Word downloads. See more finished examples in [`examples/`](examples/).
 
 **No API keys and no extra cost.** It runs inside Claude Code and uses Claude Code's built-in web search. Research counts toward your normal Claude plan usage.
-
-![Example report](examples/report-screenshot.png)
 
 ## Install
 
