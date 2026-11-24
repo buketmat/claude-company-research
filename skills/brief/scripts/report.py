@@ -39,6 +39,7 @@ UA = ("Mozilla/5.0 (Macintosh; Intel Mac OS X 14_0) AppleWebKit/537.36 "
 STATUSES = {"verified", "single_source", "not_found"}
 META_KEYS = {"highlights", "not_found", "section", "key_finding", "sources"}
 FRAGMENTS = ("company", "money", "news", "market")
+REPO_URL = "https://github.com/buketmat/claude-company-research"
 
 
 # --------------------------------------------------------------------------- #
@@ -495,7 +496,7 @@ aside h3 span{color:var(--mut);font-weight:500}
 .steps{list-style:none;margin:0;padding:0;font-size:13px}
 .steps li{display:flex;gap:8px;padding:3px 0}.steps li:before{content:"\2713";color:var(--acc);font-weight:700}
 .legend{font-size:12px;color:var(--mut);margin-top:10px}
-footer{max-width:1180px;margin:0 auto 40px;padding:0 20px;font-size:12px;color:var(--mut)}
+footer{max-width:1180px;margin:0 auto 40px;padding:0 20px;font-size:12px;color:var(--mut)}footer a{color:inherit;text-decoration:underline;text-underline-offset:2px}
 :target{animation:hl 1.5s ease}@keyframes hl{from{background:var(--onebg)}to{background:transparent}}
 @media (max-width:900px){.page{grid-template-columns:1fr}aside{position:static}}
 @media (max-width:560px){.page{padding:14px 12px}main.card{padding:20px 18px}.head{flex-wrap:wrap}.actions{margin-left:0}
@@ -1163,10 +1164,10 @@ def render(run_dir, name, run_date, domain, data, elapsed, exports=None, pending
     return ('<!doctype html><html lang="en"><head><meta charset="utf-8">'
             '<meta name="viewport" content="width=device-width,initial-scale=1">'
             '<title>%s: company brief</title>%s<style>%s%s</style></head><body class="t-%s">'
-            '<div class="page">%s%s</div><footer>Built with Company Research for Claude Code from the '
+            '<div class="page">%s%s</div><footer>Built with <a href="%s">Company Research for Claude Code</a> from the '
             'public sources listed. Gathered by AI: check anything important at the source.</footer>%s</body></html>') % (
         esc(name), '<meta http-equiv="refresh" content="1">' if pending else "", CSS,
-        THEMES.get(theme or DEFAULT_THEME, ""), esc(theme or DEFAULT_THEME), main, aside, JS)
+        THEMES.get(theme or DEFAULT_THEME, ""), esc(theme or DEFAULT_THEME), main, aside, REPO_URL, JS)
 
 
 def _x(s):
@@ -1299,8 +1300,9 @@ def export_docx(path, run_dir, name, run_date, domain, data):
     heading("Sources")
     for src in data["sources"]:
         bullet(link(src["url"], src["title"], 18), run("  " + src["host"], size=15, color="6D6A63"))
-    para(run("Built with Company Research for Claude Code from the public sources listed. "
-             "Gathered by AI: check anything important at the source.", size=14, color="6D6A63"), after=0)
+    para(run("Built with ", size=14, color="6D6A63"), link(REPO_URL, "Company Research for Claude Code", 14),
+         run(" from the public sources listed. Gathered by AI: check anything important at the source.",
+             size=14, color="6D6A63"), after=0)
 
     W = 'xmlns:w="http://schemas.openxmlformats.org/wordprocessingml/2006/main" ' \
         'xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships"'
