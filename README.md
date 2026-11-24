@@ -1,6 +1,6 @@
 # Company Research for Claude Code
 
-**Type a company name. Get a sourced one-page brief in about 20 seconds.**
+**Type a company name. Get a sourced one-page brief in about 20 seconds. It is to the point, fast, visually appealing**
 
 **Who it's for:** Investors (VCs, angels, private equity) · Analysts and consultants · Corporate deal and strategy teams · Sales and marketing teams · Founders · Job seekers and recruiters · Journalists and podcasters
 
