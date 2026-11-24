@@ -2,7 +2,7 @@
 
 **Type a company name. Get a sourced one-page brief in about 20 seconds.**
 
-Are you an investor, analyst, founder, salesperson, job seeker or journalist? Get a sourced company snapshot in about a minute.
+Are you an investor, analyst, founder, salesperson, job seeker or journalist? Get a sourced company snapshot in about 20 seconds.
 
 **Who it's for:** Investors (VCs, angels, private equity) · Analysts and consultants · Corporate deal and strategy teams · Sales and marketing teams · Founders · Job seekers and recruiters · Journalists and podcasters
 
