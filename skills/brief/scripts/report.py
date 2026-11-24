@@ -1163,7 +1163,7 @@ def render(run_dir, name, run_date, domain, data, elapsed, exports=None, pending
     return ('<!doctype html><html lang="en"><head><meta charset="utf-8">'
             '<meta name="viewport" content="width=device-width,initial-scale=1">'
             '<title>%s: company brief</title>%s<style>%s%s</style></head><body class="t-%s">'
-            '<div class="page">%s%s</div><footer>Built with the Brief Company Research Agent for Claude Code from the '
+            '<div class="page">%s%s</div><footer>Built with Company Research for Claude Code from the '
             'public sources listed. Gathered by AI: check anything important at the source.</footer>%s</body></html>') % (
         esc(name), '<meta http-equiv="refresh" content="1">' if pending else "", CSS,
         THEMES.get(theme or DEFAULT_THEME, ""), esc(theme or DEFAULT_THEME), main, aside, JS)
@@ -1299,7 +1299,7 @@ def export_docx(path, run_dir, name, run_date, domain, data):
     heading("Sources")
     for src in data["sources"]:
         bullet(link(src["url"], src["title"], 18), run("  " + src["host"], size=15, color="6D6A63"))
-    para(run("Built with the Brief Company Research Agent for Claude Code from the public sources listed. "
+    para(run("Built with Company Research for Claude Code from the public sources listed. "
              "Gathered by AI: check anything important at the source.", size=14, color="6D6A63"), after=0)
 
     W = 'xmlns:w="http://schemas.openxmlformats.org/wordprocessingml/2006/main" ' \

@@ -1,20 +1,24 @@
 {
-  "name": "brief-company-research-agent",
-  "displayName": "Brief Company Research Agent",
-  "version": "1.4.0",
-  "description": "A brief, sourced research report on any company in about 20 seconds: what it does, the numbers, main competitors, news and red flags, as a live web page plus PDF and Word downloads. No API keys needed.",
+  "name": "company-research",
+  "displayName": "Company Research for Claude Code",
+  "version": "1.5.0",
+  "description": "Company research inside Claude Code. /company-research:brief gives a short, sourced report on any company in about 20 seconds: what it does, the numbers, main competitors, news and red flags, as a live web page plus PDF and Word downloads. No API keys needed. A deep-dive command is planned.",
   "author": {
     "name": "buketmat"
   },
-  "repository": "https://github.com/buketmat/brief-company-research-agent",
+  "repository": "https://github.com/buketmat/claude-company-research",
   "license": "MIT",
   "keywords": [
-    "company-research",
     "company-brief",
-    "research-agent",
-    "due-diligence",
+    "company-research",
+    "company-snapshot",
+    "competitor-analysis",
     "competitors",
-    "startups",
-    "red-flags"
+    "due-diligence",
+    "market-research",
+    "red-flags",
+    "research-agent",
+    "sales-prospecting",
+    "startups"
   ]
 }

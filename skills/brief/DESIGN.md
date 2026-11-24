@@ -1,4 +1,4 @@
-# Brief Company Research Agent: approved look and feel
+# Company Research (brief): approved look and feel
 
 Approved on 2026-11-24. This is the standard look for the web report, the PDF and the Word file. Keep it exactly like this unless the owner asks for a change. It is built in `scripts/report.py` as the `band` theme, which is the default (`DEFAULT_THEME`).
 

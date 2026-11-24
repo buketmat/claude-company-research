@@ -1,4 +1,4 @@
-# Brief Company Research Agent for Claude Code
+# Company Research for Claude Code
 
 **Type a company name. Get a sourced one-page brief in about 20 seconds.**
 
@@ -7,7 +7,7 @@
 ![Example report: a brief on Revolut with key figures, key points, competitors and sources](examples/report-screenshot.png)
 
 ```
-/brief-company-research-agent:brief Revolut
+/company-research:brief Revolut
 ```
 
 What it does, the numbers, main competitors, recent news and red flags. Four fast AI agents search in parallel, and the report opens in your browser right away and fills in live, with PDF and Word downloads. See more finished examples in [`examples/`](examples/).
@@ -19,17 +19,22 @@ What it does, the numbers, main competitors, recent news and red flags. Four fas
 In Claude Code, run:
 
 ```
-/plugin marketplace add buketmat/brief-company-research-agent
-/plugin install brief-company-research-agent@brief-company-research-agent
+/plugin marketplace add buketmat/claude-company-research
+/plugin install company-research@company-research
 ```
 
 Then restart Claude Code (or run `/reload-plugins`).
 
 ## Use
 
+| Command | What you get | Status |
+|---|---|---|
+| `/company-research:brief <company>` | A short, sourced snapshot in about 20 seconds | Available |
+| `/company-research:deep-dive <company>` | A full, in-depth company research report | Coming soon |
+
 ```
-/brief-company-research-agent:brief Mastercard
-/brief-company-research-agent:brief linear.app
+/company-research:brief Mastercard
+/company-research:brief linear.app
 ```
 
 Or just ask: *"Give me a brief on Revolut."*

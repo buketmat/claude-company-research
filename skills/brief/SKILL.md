@@ -1,12 +1,12 @@
 ---
 name: brief
-description: Brief company research: a short, sourced report on any company with its logo, red flags and PDF, Word and HTML downloads. Four fast agents search in parallel (the company itself, money, news, market and competitors); the report opens in the browser within seconds and fills in live as each agent finishes, complete in about 20 seconds. Use when the user types /brief-company-research-agent:brief, or asks for a company brief, or to research, profile, look up, vet or size up a company, startup, competitor, client or employer.
+description: Brief company research: a short, sourced report on any company with its logo, red flags and PDF, Word and HTML downloads. Four fast agents search in parallel (the company itself, money, news, market and competitors); the report opens in the browser within seconds and fills in live as each agent finishes, complete in about 20 seconds. Use when the user types /company-research:brief, or asks for a company brief, or to research, profile, look up, vet or size up a company, startup, competitor, client or employer.
 argument-hint: <company name or website>
 model: haiku
 effort: low
 ---
 
-# Brief Company Research Agent
+# Company Research: brief
 
 `S` = `${CLAUDE_SKILL_DIR}/scripts/report.py`. Run it with `python3`; if that command is missing (often on Windows), use `python`.
 
@@ -18,10 +18,10 @@ effort: low
 3. In **one message**, send all five calls together:
    - Bash with `run_in_background: true`: `python3 "S" run "D" "<Company name>" <YYYY-MM-DD> <domain>`
      It creates the folder, fetches the logo, opens a live report in the browser that fills in as each agent's file lands, then writes the final report, PDF and Word file by itself.
-   - Agent, `subagent_type: "brief-company-research-agent:cr-company"`
-   - Agent, `subagent_type: "brief-company-research-agent:cr-money"`
-   - Agent, `subagent_type: "brief-company-research-agent:cr-news"`
-   - Agent, `subagent_type: "brief-company-research-agent:cr-market"`
+   - Agent, `subagent_type: "company-research:cr-company"`
+   - Agent, `subagent_type: "company-research:cr-money"`
+   - Agent, `subagent_type: "company-research:cr-news"`
+   - Agent, `subagent_type: "company-research:cr-market"`
 
    The four agents run at the same time. Each agent prompt is just four lines: `Company: <name>`, `Domain: <domain>`, `Research date: <YYYY-MM-DD>`, `Output path: D/frag-<company|money|news|market>.json`.
 
