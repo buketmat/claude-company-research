@@ -1,0 +1,89 @@
+{
+  "market": {
+    "category": {
+      "value": "One-click checkout network for online shoppers and merchants",
+      "status": "single_source",
+      "sources": [
+        {"url": "https://wiserreview.com/blog/bolt-checkout-alternatives/", "title": "9 Bolt Checkout Alternatives You Already Carry (2026)", "publisher": "Wiser Review", "tier": 3}
+      ],
+      "note": "Describes Bolt's Universal Shopper Network pitch; opinion article."
+    },
+    "position": {
+      "value": null,
+      "status": "not_found",
+      "sources": [],
+      "note": "Bolt claims checkout leadership; no independent 2026 market share found."
+    },
+    "competitors": [
+      {
+        "name": "PayPal (Fastlane)",
+        "website": "paypal.com",
+        "why": "Wallet checkout for shoppers who already hold accounts",
+        "fact": {
+          "value": "Named as a Bolt checkout alternative in 2026 comparison",
+          "status": "single_source",
+          "sources": [
+            {"url": "https://wiserreview.com/blog/bolt-checkout-alternatives/", "title": "9 Bolt Checkout Alternatives You Already Carry (2026)", "publisher": "Wiser Review", "tier": 3}
+          ]
+        }
+      },
+      {
+        "name": "Amazon Pay",
+        "website": "amazon.com",
+        "why": "Wallet checkout tied to a large existing shopper base",
+        "fact": {
+          "value": "Named as a Bolt checkout alternative in 2026 comparison",
+          "status": "single_source",
+          "sources": [
+            {"url": "https://wiserreview.com/blog/bolt-checkout-alternatives/", "title": "9 Bolt Checkout Alternatives You Already Carry (2026)", "publisher": "Wiser Review", "tier": 3}
+          ]
+        }
+      },
+      {
+        "name": "Shopify wallet checkout",
+        "website": "shopify.com",
+        "why": "Platform wallet checkout for Shopify merchants and their shoppers",
+        "fact": {
+          "value": "Named among wallet checkouts that buyers already carry",
+          "status": "single_source",
+          "sources": [
+            {"url": "https://wiserreview.com/blog/bolt-checkout-alternatives/", "title": "9 Bolt Checkout Alternatives You Already Carry (2026)", "publisher": "Wiser Review", "tier": 3}
+          ]
+        }
+      },
+      {
+        "name": "Checkout.com",
+        "website": "checkout.com",
+        "why": "Payment processor for merchants, compared with Bolt on TrustRadius",
+        "fact": {
+          "value": "Compared head-to-head with Bolt on TrustRadius",
+          "status": "single_source",
+          "sources": [
+            {"url": "https://www.trustradius.com/compare-products/bolt-vs-checkout-com", "title": "Bolt vs. Checkout.com", "publisher": "TrustRadius", "tier": 3}
+          ]
+        }
+      }
+    ],
+    "edge": [
+      {
+        "claim": "Says its Universal Shopper Network recognizes 80M+ US shoppers at checkout",
+        "fact": {
+          "value": "Claims 80M+ US shoppers recognized at checkout",
+          "status": "single_source",
+          "sources": [
+            {"url": "https://wiserreview.com/blog/bolt-checkout-alternatives/", "title": "9 Bolt Checkout Alternatives You Already Carry (2026)", "publisher": "Wiser Review", "tier": 3}
+          ],
+          "note": "Company claim, as reported by a third-party article."
+        }
+      }
+    ]
+  },
+  "highlights": [
+    "Wiser Review argues PayPal, Stripe, Shopify and Amazon have bigger shopper reach than Bolt",
+    "Bolt's rank among checkout providers is disputed; no independent 2026 share figure found"
+  ],
+  "not_found": [
+    "Bolt's independent market share or ranking among checkout providers in 2026",
+    "Independent verification of Bolt's 80M+ shopper figure"
+  ]
+}

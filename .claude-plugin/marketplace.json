@@ -1,0 +1,15 @@
+{
+  "name": "brief-company-research-agent",
+  "owner": {
+    "name": "buketmat"
+  },
+  "description": "Brief Company Research Agent: a Claude Code plugin.",
+  "plugins": [
+    {
+      "name": "brief-company-research-agent",
+      "source": "./",
+      "description": "A brief, sourced research report on any company in about 20 seconds, with red flags and PDF and Word downloads. No API keys needed.",
+      "category": "Research"
+    }
+  ]
+}

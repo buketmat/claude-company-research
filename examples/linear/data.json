@@ -1,0 +1,406 @@
+{
+  "sections": {
+    "company": {
+      "name": "Linear",
+      "website": "https://linear.app",
+      "linkedin_url": "https://www.linkedin.com/company/linearapp",
+      "positioning": "Presents itself as the tool of choice for planning and building software",
+      "one_liner": "Software planning and issue tracking tool for product and engineering teams",
+      "founded": {
+        "value": "2019",
+        "status": "single_source",
+        "refs": [
+          1
+        ],
+        "note": ""
+      },
+      "hq": {
+        "value": "San Francisco",
+        "status": "single_source",
+        "refs": [
+          1
+        ],
+        "note": "Most sources; also lists New York and Helsinki offices"
+      },
+      "ceo": {
+        "value": "Karri Saarinen",
+        "status": "single_source",
+        "refs": [
+          1
+        ],
+        "note": "Co-founder and CEO"
+      },
+      "employees": {
+        "value": "~141",
+        "status": "single_source",
+        "refs": [
+          2
+        ],
+        "note": "PitchBook 2026; GetLatka lists 178"
+      },
+      "business_model": {
+        "value": null,
+        "status": "not_found",
+        "refs": [],
+        "note": ""
+      },
+      "customers": {
+        "value": "50,000+ companies",
+        "status": "verified",
+        "refs": [
+          3
+        ],
+        "note": "Company's own About page"
+      },
+      "products": [
+        {
+          "name": "Linear issue tracking",
+          "what": "Issues, projects and roadmaps for software teams",
+          "fact": {
+            "value": null,
+            "status": "not_found",
+            "refs": [],
+            "note": ""
+          }
+        },
+        {
+          "name": "Linear Method workflows",
+          "what": "Planning and building workflow for product teams",
+          "fact": {
+            "value": null,
+            "status": "not_found",
+            "refs": [],
+            "note": ""
+          }
+        }
+      ]
+    },
+    "money": {
+      "listed": {
+        "is_listed": false
+      },
+      "revenue": {
+        "value": "$100M+",
+        "status": "verified",
+        "refs": [
+          4
+        ],
+        "note": "Annual recurring revenue, company-reported",
+        "metric": "ARR",
+        "period": "2026"
+      },
+      "profit": {
+        "value": null,
+        "status": "not_found",
+        "refs": [],
+        "note": ""
+      },
+      "market_cap_or_valuation": {
+        "value": "$2.5B",
+        "status": "single_source",
+        "refs": [
+          5
+        ],
+        "note": "Aug 2026 employee tender, secondary sale"
+      },
+      "total_funding": {
+        "value": "$134.2M",
+        "status": "single_source",
+        "refs": [
+          6
+        ],
+        "note": "Across all rounds, per CB Insights"
+      },
+      "last_round": {
+        "value": "$82M Series C",
+        "status": "single_source",
+        "refs": [
+          7
+        ],
+        "note": "June 2025 at $1.25B valuation"
+      },
+      "last_round_date": "2025-06",
+      "down_round": {
+        "value": "No",
+        "status": "single_source",
+        "refs": [
+          5,
+          7
+        ],
+        "note": "Valuation rose from $1.25B to $2.5B"
+      },
+      "investors": {
+        "value": "Accel, Sequoia",
+        "status": "single_source",
+        "refs": [
+          7
+        ],
+        "note": "Series C led by Accel; Series A by Sequoia"
+      }
+    },
+    "news": {
+      "items": [
+        {
+          "date": "2026-11-12",
+          "headline": "Launched bring your own key (BYOK) for workspace admins on all plans",
+          "fact": {
+            "value": "Workspace admins can enable BYOK in Settings; available on all current plans",
+            "status": "verified",
+            "refs": [
+              8
+            ],
+            "note": ""
+          }
+        },
+        {
+          "date": "2026-11-05",
+          "headline": "Released Mobile Diffs in the Reviews tab of the mobile app",
+          "fact": {
+            "value": "Mobile Diffs available from the Reviews tab in the Linear mobile app",
+            "status": "verified",
+            "refs": [
+              8
+            ],
+            "note": ""
+          }
+        }
+      ],
+      "red_flags": [
+        {
+          "category": "other",
+          "flag": "Data exposure via sync features disclosed, Mar 2026",
+          "severity": "medium",
+          "fact": {
+            "value": "Linear disclosed a data exposure from sync features on 2026-03-24; mobile sessions logged out",
+            "status": "verified",
+            "refs": [
+              9
+            ],
+            "note": ""
+          }
+        }
+      ]
+    },
+    "market": {
+      "category": {
+        "value": "Issue tracking and product development project management software",
+        "status": "single_source",
+        "refs": [
+          10
+        ],
+        "note": ""
+      },
+      "position": {
+        "value": "About 15% of Ramp-card organizations with a PM vendor pay Linear",
+        "status": "single_source",
+        "refs": [
+          11
+        ],
+        "note": "Card-spend data, not market share; up 4 points year over year"
+      },
+      "competitors": [
+        {
+          "name": "Jira",
+          "website": "atlassian.com",
+          "why": "Issue tracking for software teams; wider reach at larger firms",
+          "fact": {
+            "value": "Leads overall; larger share from about 200 employees up",
+            "status": "single_source",
+            "refs": [
+              12
+            ],
+            "note": ""
+          }
+        },
+        {
+          "name": "ClickUp",
+          "website": "clickup.com",
+          "why": "Project and task management for product and dev teams",
+          "fact": {
+            "value": null,
+            "status": "not_found",
+            "refs": [],
+            "note": ""
+          }
+        },
+        {
+          "name": "Shortcut",
+          "website": "shortcut.com",
+          "why": "Software project tracking for product and engineering teams",
+          "fact": {
+            "value": null,
+            "status": "not_found",
+            "refs": [],
+            "note": ""
+          }
+        },
+        {
+          "name": "monday dev",
+          "website": "monday.com",
+          "why": "Dev and product workflow tool within monday.com",
+          "fact": {
+            "value": null,
+            "status": "not_found",
+            "refs": [],
+            "note": ""
+          }
+        },
+        {
+          "name": "Plane",
+          "website": "plane.so",
+          "why": "Open-source issue tracker for product and dev teams",
+          "fact": {
+            "value": null,
+            "status": "not_found",
+            "refs": [],
+            "note": ""
+          }
+        }
+      ],
+      "edge": []
+    }
+  },
+  "highlights": [
+    "Linear's own About page cites use by more than 50,000 companies, including OpenAI and Coinbase",
+    "Remote-first company from the start, according to its LinkedIn profile",
+    "Over 40,000 paying companies and 177% net revenue retention, per company",
+    "Company says it has been profitable since 2021, no profit figures disclosed",
+    "Series C in June 2025 led by Accel, earlier seed and Series A led by Sequoia"
+  ],
+  "not_found": [
+    "business model",
+    "revenue",
+    "funding details",
+    "verified product list with sources",
+    "customer case study names with sources",
+    "Audited annual revenue or net income",
+    "Public market cap or stock ticker (private company)",
+    "Third-party revenue estimates reliable enough to cite",
+    "No layoffs or job cuts found in the last 24 months (a May 2026 Business Insider report, via secondary coverage, says no public layoffs; headcount 141)",
+    "No founder or CEO departure found; Karri Saarinen still described as CEO",
+    "No lawsuits, regulatory fines, probes or licence issues found",
+    "No short-seller report or restatement found (private company)",
+    "Unverified: third-party newsletter says a London hub launch evening on 2026-11-10; not confirmed on Linear's site",
+    "Linear's own market share or revenue share estimate",
+    "Competitor market share figures",
+    "Linear's own claims of product difference with sourced evidence",
+    "Competitor fact details for ClickUp, Shortcut, monday dev and Plane"
+  ],
+  "sources": [
+    {
+      "id": 1,
+      "url": "https://linkedin.com/company/linearapp",
+      "host": "linkedin.com",
+      "tier": 3,
+      "title": "Linear - LinkedIn company page",
+      "publisher": "linkedin.com",
+      "published": null
+    },
+    {
+      "id": 2,
+      "url": "https://tour.pitchbook.com/answers/linear-company-profile",
+      "host": "tour.pitchbook.com",
+      "tier": 3,
+      "title": "Linear Company Profile - PitchBook",
+      "publisher": "tour.pitchbook.com",
+      "published": null
+    },
+    {
+      "id": 3,
+      "url": "https://linear.app/about",
+      "host": "linear.app",
+      "tier": 1,
+      "title": "Linear - About",
+      "publisher": "linear.app",
+      "published": null
+    },
+    {
+      "id": 4,
+      "url": "https://linear.app/blog/sharing-growth-with-the-people-building-linear",
+      "host": "linear.app",
+      "tier": 1,
+      "title": "Sharing growth with the people building Linear",
+      "publisher": "linear.app",
+      "published": null
+    },
+    {
+      "id": 5,
+      "url": "https://pulse2.com/linear-completes-99-million-tender-at-2-5-billion-valuation-as-arr-tops-100-million-and-net-retention-hits-177/",
+      "host": "pulse2.com",
+      "tier": 2,
+      "title": "Linear Completes $99 Million Tender At $2.5 Billion Valuation",
+      "publisher": "pulse2.com",
+      "published": null
+    },
+    {
+      "id": 6,
+      "url": "https://www.cbinsights.com/company/linear-1/financials",
+      "host": "cbinsights.com",
+      "tier": 3,
+      "title": "Linear financials, CB Insights",
+      "publisher": "cbinsights.com",
+      "published": null
+    },
+    {
+      "id": 7,
+      "url": "https://techcrunch.com/2025/06/10/atlassian-rival-linear-raises-82m-at-1-25b-valuation/",
+      "host": "techcrunch.com",
+      "tier": 2,
+      "title": "Atlassian rival Linear raises $82M at $1.25B valuation",
+      "publisher": "techcrunch.com",
+      "published": null
+    },
+    {
+      "id": 8,
+      "url": "https://linear.app/changelog",
+      "host": "linear.app",
+      "tier": 1,
+      "title": "Linear changelog",
+      "publisher": "linear.app",
+      "published": null
+    },
+    {
+      "id": 9,
+      "url": "https://linear.app/blog/linear-incident-on-mar-24th-2026",
+      "host": "linear.app",
+      "tier": 1,
+      "title": "Linear incident on Mar 24th 2026",
+      "publisher": "linear.app",
+      "published": null
+    },
+    {
+      "id": 10,
+      "url": "https://www.g2.com/products/linear/competitors/alternatives",
+      "host": "g2.com",
+      "tier": 3,
+      "title": "G2: Linear competitors and alternatives",
+      "publisher": "g2.com",
+      "published": null
+    },
+    {
+      "id": 11,
+      "url": "https://ramp.com/vendors/linear",
+      "host": "ramp.com",
+      "tier": 2,
+      "title": "Ramp vendor page for Linear",
+      "publisher": "ramp.com",
+      "published": null
+    },
+    {
+      "id": 12,
+      "url": "https://bloomberry.com/blog/the-data-on-jira-vs-linear-whos-winning-new-customers/",
+      "host": "bloomberry.com",
+      "tier": 3,
+      "title": "Bloomberry: Jira vs Linear, who is winning new customers",
+      "publisher": "bloomberry.com",
+      "published": null
+    }
+  ],
+  "stats": {
+    "verified": 5,
+    "single_source": 12,
+    "not_found": 8,
+    "sources": 12
+  },
+  "problems": []
+}

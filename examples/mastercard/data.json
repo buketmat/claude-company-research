@@ -1,0 +1,438 @@
+{
+  "sections": {
+    "company": {
+      "name": "Mastercard",
+      "website": "https://www.mastercard.com",
+      "linkedin_url": "https://linkedin.com/company/mastercard",
+      "positioning": {
+        "value": "Presents itself as powering economies and empowering people through payments",
+        "status": "verified",
+        "refs": [
+          1
+        ],
+        "note": "Company's own About us page"
+      },
+      "one_liner": {
+        "value": "Global card payments network serving consumers, businesses, banks and governments",
+        "status": "verified",
+        "refs": [
+          1
+        ],
+        "note": "Audience segments from company About us page"
+      },
+      "founded": {
+        "value": null,
+        "status": "not_found",
+        "refs": [],
+        "note": "Only a third-party profile seen; not cited"
+      },
+      "hq": {
+        "value": "Purchase, New York",
+        "status": "verified",
+        "refs": [
+          2
+        ],
+        "note": ""
+      },
+      "ceo": {
+        "value": "Michael Miebach",
+        "status": "single_source",
+        "refs": [
+          3
+        ],
+        "note": "Current CEO per Fortune profile"
+      },
+      "employees": {
+        "value": "~39,800",
+        "status": "single_source",
+        "refs": [
+          3
+        ],
+        "note": "Twelve months to June 30, 2026"
+      },
+      "business_model": {
+        "value": null,
+        "status": "not_found",
+        "refs": [],
+        "note": "Network fees not confirmed in cited sources"
+      },
+      "customers": {
+        "value": "Consumers, small and medium businesses, large enterprises, governments, banks",
+        "status": "verified",
+        "refs": [
+          1
+        ],
+        "note": "Audience segments on company site"
+      },
+      "products": [
+        {
+          "name": "Insights and intelligence",
+          "what": "Data-driven insights for business decisions, from transaction data",
+          "fact": {
+            "value": "Listed as a business services capability area",
+            "status": "verified",
+            "refs": [
+              4
+            ],
+            "note": ""
+          }
+        },
+        {
+          "name": "Consumer acquisition and engagement",
+          "what": "Tools to find new buyers and engage existing cardholders",
+          "fact": {
+            "value": "Listed as a business services capability area",
+            "status": "verified",
+            "refs": [
+              4
+            ],
+            "note": ""
+          }
+        },
+        {
+          "name": "Cybersecurity and fraud prevention",
+          "what": "Security and fraud detection services for payments",
+          "fact": {
+            "value": "Listed as a business services capability area",
+            "status": "verified",
+            "refs": [
+              4
+            ],
+            "note": ""
+          }
+        },
+        {
+          "name": "Open finance",
+          "what": "Services connecting financial data across accounts and providers",
+          "fact": {
+            "value": "Listed as a business services capability area",
+            "status": "verified",
+            "refs": [
+              4
+            ],
+            "note": ""
+          }
+        }
+      ]
+    },
+    "money": {
+      "listed": {
+        "is_listed": true,
+        "exchange": "NYSE",
+        "ticker": "MA"
+      },
+      "revenue": {
+        "value": "$32.8B",
+        "status": "single_source",
+        "refs": [
+          5
+        ],
+        "note": "FY2025, up 16.4%"
+      },
+      "profit": {
+        "value": "$15.0B",
+        "status": "single_source",
+        "refs": [
+          5
+        ],
+        "note": "FY2025 net income"
+      },
+      "market_cap_or_valuation": {
+        "value": null,
+        "status": "not_found",
+        "refs": [],
+        "note": "Quotes conflict and are undated"
+      },
+      "total_funding": {
+        "value": null,
+        "status": "not_found",
+        "refs": [],
+        "note": "Publicly listed company"
+      },
+      "last_round": {
+        "value": null,
+        "status": "not_found",
+        "refs": [],
+        "note": "Publicly listed company"
+      },
+      "last_round_date": null,
+      "down_round": {
+        "value": null,
+        "status": "not_found",
+        "refs": [],
+        "note": "No Mastercard down round found"
+      },
+      "investors": {
+        "value": "Vanguard index funds",
+        "status": "single_source",
+        "refs": [
+          6
+        ],
+        "note": "Vanguard Total Stock Market Index about 25M shares, June 2026"
+      }
+    },
+    "news": {
+      "items": [
+        {
+          "date": "2026-11-17",
+          "headline": "Launched debit-card payment collection for informal sellers globally",
+          "fact": {
+            "value": "Mastercard launched debit card-based payment collection for informal sellers globally on 2026-11-17",
+            "status": "single_source",
+            "refs": [
+              7
+            ],
+            "note": "Single market-intelligence source; not confirmed on mastercard.com."
+          }
+        },
+        {
+          "date": "2026-10-29",
+          "headline": "Reported Q3 2026 net revenue of $9.81bn, up 14%",
+          "fact": {
+            "value": "Q3 2026 net revenue of $9.81bn, up 14.0% year on year, released 2026-10-29",
+            "status": "single_source",
+            "refs": [
+              8
+            ],
+            "note": "Third-party analysis of SEC filings; release date of 29 October 2026 stated as planned in the same analysis. Confirm against Mastercard investor release."
+          }
+        },
+        {
+          "date": "2026-08",
+          "headline": "Acquired stablecoin infrastructure firm BVNK; joint platform launched",
+          "fact": {
+            "value": "Mastercard acquired BVNK in August 2026; joint Global Money Platform combining Mastercard payments with BVNK stablecoin infrastructure launched",
+            "status": "single_source",
+            "refs": [
+              8
+            ],
+            "note": "Month only from source. Launch date of the Global Money Platform not confirmed."
+          }
+        },
+        {
+          "date": "2026-06-09",
+          "headline": "Revised Visa and Mastercard merchant settlement gets preliminary approval",
+          "fact": {
+            "value": "Revised Visa and Mastercard US merchant settlement received preliminary court approval on 2026-06-09; would cut credit interchange by 10 basis points for five years",
+            "status": "single_source",
+            "refs": [
+              8
+            ],
+            "note": "Stated by a third-party analysis; no court or company source confirmed in this search."
+          }
+        },
+        {
+          "date": "2026-01",
+          "headline": "Plans to cut about 4% of global workforce after strategic review",
+          "fact": {
+            "value": "Mastercard said it will cut about 4% of its global workforce after a strategic review; CFO flagged roughly $200 million one-time restructuring charge in Q1",
+            "status": "single_source",
+            "refs": [
+              9,
+              10
+            ],
+            "note": "Two sources agree on the 4% cut. Month 2026-01 comes from the search summary and is not shown in the source snippets. Not a red flag: no Tier 1 or 2 source found."
+          }
+        }
+      ],
+      "red_flags": []
+    },
+    "market": {
+      "category": {
+        "value": "Global card payment network",
+        "status": "single_source",
+        "refs": [
+          11
+        ],
+        "note": ""
+      },
+      "position": {
+        "value": null,
+        "status": "not_found",
+        "refs": [],
+        "note": "No Mastercard share figure found. Fortunly says Visa is largest US credit card company."
+      },
+      "competitors": [
+        {
+          "name": "Visa",
+          "website": "visa.com",
+          "why": "Same card network rails for issuers, merchants and cardholders",
+          "fact": {
+            "value": "Named most often as Mastercard's main card network rival",
+            "status": "single_source",
+            "refs": [
+              12
+            ],
+            "note": "Attribution to this list is from search summary; competitor lists are not authoritative."
+          }
+        },
+        {
+          "name": "American Express",
+          "website": "americanexpress.com",
+          "why": "Competing card network for issuers, merchants and cardholders",
+          "fact": {
+            "value": "Listed among Mastercard's competitors in card and payments lists",
+            "status": "single_source",
+            "refs": [
+              12
+            ],
+            "note": "Attribution to this list is from search summary; competitor lists are not authoritative."
+          }
+        },
+        {
+          "name": "Discover",
+          "website": "discover.com",
+          "why": "Competing US card network and issuer for credit cards",
+          "fact": {
+            "value": "Listed among Mastercard's competitors in card and payments lists",
+            "status": "single_source",
+            "refs": [
+              12
+            ],
+            "note": "Attribution to this list is from search summary; competitor lists are not authoritative."
+          }
+        }
+      ],
+      "edge": []
+    }
+  },
+  "highlights": [
+    "Business services pages cite more than 159 billion transactions annually",
+    "Business services pages cite more than 15 petabytes of proprietary data",
+    "Q1 2026 net revenue reached $8.4B, up from $7.25B a year earlier",
+    "Q1 2026 net income rose to $3.88B from $3.28B a year earlier",
+    "Q3 2026 net revenue reported at $9.81bn, up 14.0% year on year, with BVNK stablecoin infrastructure now integrated into a joint Global Money Platform."
+  ],
+  "not_found": [
+    "Founding year (1966 seen only in a third-party profile, not cited)",
+    "Business model and revenue mix",
+    "Card network product list with verified sourcing",
+    "Current market cap or valuation (sources conflict and are undated)",
+    "Total funding and last funding round (publicly listed)",
+    "Last round date (publicly listed)",
+    "Down round status (no Mastercard down round found)",
+    "No founder, CEO or executive departure found for 2024 to 2026.",
+    "Jan 2026 4% job cut has no Tier 1 or Tier 2 source, so it is not listed as a red flag.",
+    "No lawsuit, regulator fine or probe from the last 24 months found in Tier 1 or Tier 2 sources; older EU (2019) and UK (2015 to 2016) matters fall outside the window.",
+    "Mastercard's own Q3 2026 results release and BVNK acquisition announcement not retrieved; figures rely on a third-party analysis.",
+    "Exact date of the Global Money Platform launch not confirmed.",
+    "Mastercard global share of card payments or card volume, 2026"
+  ],
+  "sources": [
+    {
+      "id": 1,
+      "url": "https://www.mastercard.com/global/en/for-the-world/about-us.html",
+      "host": "mastercard.com",
+      "tier": 1,
+      "title": "About us",
+      "publisher": "Mastercard",
+      "published": null
+    },
+    {
+      "id": 2,
+      "url": "https://linkedin.com/company/mastercard",
+      "host": "linkedin.com",
+      "tier": 1,
+      "title": "Mastercard LinkedIn company page",
+      "publisher": "LinkedIn",
+      "published": null
+    },
+    {
+      "id": 3,
+      "url": "https://fortune.com/company/mastercard/best-companies/",
+      "host": "fortune.com",
+      "tier": 2,
+      "title": "Mastercard company profile",
+      "publisher": "Fortune",
+      "published": null
+    },
+    {
+      "id": 4,
+      "url": "https://www.mastercard.com/eu-language-masters/en_gb/business/services.html",
+      "host": "mastercard.com",
+      "tier": 1,
+      "title": "Business services",
+      "publisher": "Mastercard",
+      "published": null
+    },
+    {
+      "id": 5,
+      "url": "https://stockanalysis.com/stocks/ma/financials/income-statement/",
+      "host": "stockanalysis.com",
+      "tier": 3,
+      "title": "Mastercard Incorporated (MA) Income Statement",
+      "publisher": "StockAnalysis",
+      "published": null
+    },
+    {
+      "id": 6,
+      "url": "https://finance.yahoo.com/quote/ma/holders",
+      "host": "finance.yahoo.com",
+      "tier": 3,
+      "title": "Mastercard (MA) Holders",
+      "publisher": "Yahoo Finance",
+      "published": null
+    },
+    {
+      "id": 7,
+      "url": "https://windsordrake.com/market-intelligence/product-launches/mastercard-product-launch-2026-11-17",
+      "host": "windsordrake.com",
+      "tier": 3,
+      "title": "Product Launch · PAD/ACH & Bank Rails · 2026",
+      "publisher": "Windsor Drake",
+      "published": "2026-11-17"
+    },
+    {
+      "id": 8,
+      "url": "https://sec-api.io/insights/mastercard-ma-q3-2026-earnings-sec-filing-analysis",
+      "host": "sec-api.io",
+      "tier": 3,
+      "title": "Mastercard Q3 2026 earnings SEC filing analysis",
+      "publisher": "sec-api.io",
+      "published": "2026-11-01"
+    },
+    {
+      "id": 9,
+      "url": "https://finance.yahoo.com/news/mastercard-trim-headcount-4-despite-115245663.html",
+      "host": "finance.yahoo.com",
+      "tier": 3,
+      "title": "Mastercard trim headcount 4% despite",
+      "publisher": "Yahoo Finance",
+      "published": null
+    },
+    {
+      "id": 10,
+      "url": "https://www.peoplematters.in/news/strategic-hr/mastercard-to-cut-4percent-of-workforce-after-strategic-review-cfo-says-48221",
+      "host": "peoplematters.in",
+      "tier": 3,
+      "title": "Mastercard to cut 4% of workforce after strategic review, CFO says",
+      "publisher": "People Matters",
+      "published": null
+    },
+    {
+      "id": 11,
+      "url": "https://stripe.com/en-cn/resources/more/what-is-mastercard",
+      "host": "stripe.com",
+      "tier": 3,
+      "title": "What is Mastercard? A comprehensive guide to the global card network",
+      "publisher": "Stripe",
+      "published": null
+    },
+    {
+      "id": 12,
+      "url": "https://www.latterly.org/mastercard-competitors/",
+      "host": "latterly.org",
+      "tier": 3,
+      "title": "Top 12 Mastercard Competitors & Alternatives [2026]",
+      "publisher": "Latterly",
+      "published": null
+    }
+  ],
+  "stats": {
+    "verified": 8,
+    "single_source": 14,
+    "not_found": 7,
+    "sources": 12
+  },
+  "problems": []
+}

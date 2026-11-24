@@ -1,0 +1,473 @@
+{
+  "sections": {
+    "company": {
+      "name": "Bolt",
+      "website": "https://www.bolt.com",
+      "linkedin_url": "https://www.linkedin.com/company/bolt-com",
+      "positioning": {
+        "value": "Checkout technology company for ecommerce merchants",
+        "status": "single_source",
+        "refs": [
+          1
+        ],
+        "note": "Third-party profile; homepage not fetched"
+      },
+      "one_liner": {
+        "value": "One-click checkout and fraud services for ecommerce merchants",
+        "status": "single_source",
+        "refs": [
+          1
+        ],
+        "note": "Third-party descriptions; homepage not fetched"
+      },
+      "founded": {
+        "value": "2014",
+        "status": "single_source",
+        "refs": [
+          2
+        ],
+        "note": "January 2014, San Francisco"
+      },
+      "hq": {
+        "value": "San Francisco",
+        "status": "single_source",
+        "refs": [
+          2
+        ],
+        "note": ""
+      },
+      "ceo": {
+        "value": null,
+        "status": "not_found",
+        "refs": [],
+        "note": "Reports conflict; not verified"
+      },
+      "employees": {
+        "value": null,
+        "status": "not_found",
+        "refs": [],
+        "note": "Estimates range from 51 to 765; not verified"
+      },
+      "business_model": {
+        "value": "Takes a cut of processed transactions; sells fraud services",
+        "status": "single_source",
+        "refs": [
+          3
+        ],
+        "note": "Average take rate 1.6%, per Sacra"
+      },
+      "customers": {
+        "value": "Revolve, Benefit Cosmetics, Kendra Scott",
+        "status": "single_source",
+        "refs": [
+          4
+        ],
+        "note": "Mostly online fashion and beauty retailers; third-party lists"
+      },
+      "products": [
+        {
+          "name": "Checkout",
+          "what": "One-click checkout and account creation on the merchant's site",
+          "fact": {
+            "value": "All-in-one checkout layer on existing merchant sites",
+            "status": "verified",
+            "refs": [
+              5
+            ],
+            "note": ""
+          }
+        },
+        {
+          "name": "Bolt Ignite",
+          "what": "Modular checkout where merchants choose individual components",
+          "fact": {
+            "value": "Modular option; merchants pick individual pieces",
+            "status": "verified",
+            "refs": [
+              5
+            ],
+            "note": ""
+          }
+        },
+        {
+          "name": "Fraud services",
+          "what": "Fraud screening with chargeback coverage on orders",
+          "fact": {
+            "value": "Includes chargeback coverage",
+            "status": "verified",
+            "refs": [
+              5
+            ],
+            "note": ""
+          }
+        },
+        {
+          "name": "Bolt SSO Commerce",
+          "what": "Listed product; description not verified",
+          "fact": {
+            "value": "Listed by CB Insights as a Bolt product",
+            "status": "single_source",
+            "refs": [
+              1
+            ],
+            "note": ""
+          }
+        }
+      ]
+    },
+    "money": {
+      "listed": {
+        "is_listed": false,
+        "exchange": null,
+        "ticker": null
+      },
+      "revenue": {
+        "value": "$27M",
+        "status": "single_source",
+        "refs": [
+          3
+        ],
+        "note": "2023 third-party estimate, up 4%"
+      },
+      "profit": {
+        "value": null,
+        "status": "not_found",
+        "refs": [],
+        "note": ""
+      },
+      "market_cap_or_valuation": {
+        "value": "$11B",
+        "status": "verified",
+        "refs": [
+          6,
+          1
+        ],
+        "note": "Jan 2022 round; later estimates far lower"
+      },
+      "total_funding": {
+        "value": "$1.013B",
+        "status": "single_source",
+        "refs": [
+          1
+        ],
+        "note": "Sacra reports $963M instead"
+      },
+      "last_round": {
+        "value": "$355M Series E",
+        "status": "single_source",
+        "refs": [
+          6
+        ],
+        "note": "Priced round, January 2022"
+      },
+      "last_round_date": "2022-01",
+      "down_round": {
+        "value": "No",
+        "status": "single_source",
+        "refs": [
+          6
+        ],
+        "note": "2022 round up from about $6B in 2021"
+      },
+      "investors": {
+        "value": "BlackRock funds, Schonfeld, Invus",
+        "status": "single_source",
+        "refs": [
+          6
+        ],
+        "note": "Also CreditEase, H.I.G. Growth, Activant Capital"
+      }
+    },
+    "news": {
+      "items": [
+        {
+          "date": "2026-05-22",
+          "headline": "CEO Breslow says Bolt let its entire HR team go",
+          "fact": {
+            "value": "Ryan Breslow said Bolt fired its entire HR team, calling them 'creating problems that didn't exist'",
+            "status": "single_source",
+            "refs": [
+              7
+            ],
+            "note": "Date taken from the article URL. Breslow's remarks were made at a Fortune event, per a second search result."
+          }
+        },
+        {
+          "date": "2026-04",
+          "headline": "Bolt cuts about a third of staff, citing AI and leaner structure",
+          "fact": {
+            "value": "Bolt cut roughly a third of its staff in April 2026, citing AI",
+            "status": "verified",
+            "refs": [
+              8,
+              9
+            ],
+            "note": "Exact day not confirmed. One report says fewer than 40 people were affected, and another says about 30%. Treat as about a third."
+          }
+        },
+        {
+          "date": "2026-01",
+          "headline": "Bolt adds Affirm buy-now-pay-later options to its checkout network",
+          "fact": {
+            "value": "Bolt selected Affirm as embedded buy-now-pay-later partner across its one-click checkout network",
+            "status": "verified",
+            "refs": [
+              10
+            ],
+            "note": "Company newsroom lists the Affirm partnership dated January 27. The year is inferred from the 2026 listing."
+          }
+        }
+      ],
+      "red_flags": [
+        {
+          "category": "layoffs",
+          "flag": "Cut about a third of staff, citing AI, April 2026",
+          "severity": "high",
+          "fact": {
+            "value": "Bolt cut roughly a third of its staff in April 2026, citing AI; described as the fourth round since 2022",
+            "status": "verified",
+            "refs": [
+              8,
+              9
+            ],
+            "note": "Exact day not confirmed."
+          }
+        },
+        {
+          "category": "layoffs",
+          "flag": "Fired entire HR team, per CEO remarks, May 2026",
+          "severity": "medium",
+          "fact": {
+            "value": "CEO Ryan Breslow said Bolt let go its entire HR team in May 2026",
+            "status": "single_source",
+            "refs": [
+              7
+            ],
+            "note": "Single source. Date taken from the article URL."
+          }
+        }
+      ]
+    },
+    "market": {
+      "category": {
+        "value": "One-click checkout network for online shoppers and merchants",
+        "status": "single_source",
+        "refs": [
+          11
+        ],
+        "note": "Describes Bolt's Universal Shopper Network pitch; opinion article."
+      },
+      "position": {
+        "value": null,
+        "status": "not_found",
+        "refs": [],
+        "note": "Bolt claims checkout leadership; no independent 2026 market share found."
+      },
+      "competitors": [
+        {
+          "name": "PayPal (Fastlane)",
+          "website": "paypal.com",
+          "why": "Wallet checkout for shoppers who already hold accounts",
+          "fact": {
+            "value": "Named as a Bolt checkout alternative in 2026 comparison",
+            "status": "single_source",
+            "refs": [
+              11
+            ],
+            "note": ""
+          }
+        },
+        {
+          "name": "Amazon Pay",
+          "website": "amazon.com",
+          "why": "Wallet checkout tied to a large existing shopper base",
+          "fact": {
+            "value": "Named as a Bolt checkout alternative in 2026 comparison",
+            "status": "single_source",
+            "refs": [
+              11
+            ],
+            "note": ""
+          }
+        },
+        {
+          "name": "Shopify wallet checkout",
+          "website": "shopify.com",
+          "why": "Platform wallet checkout for Shopify merchants and their shoppers",
+          "fact": {
+            "value": "Named among wallet checkouts that buyers already carry",
+            "status": "single_source",
+            "refs": [
+              11
+            ],
+            "note": ""
+          }
+        },
+        {
+          "name": "Checkout.com",
+          "website": "checkout.com",
+          "why": "Payment processor for merchants, compared with Bolt on TrustRadius",
+          "fact": {
+            "value": "Compared head-to-head with Bolt on TrustRadius",
+            "status": "single_source",
+            "refs": [
+              12
+            ],
+            "note": ""
+          }
+        }
+      ],
+      "edge": [
+        {
+          "claim": "Says its Universal Shopper Network recognizes 80M+ US shoppers at checkout",
+          "fact": {
+            "value": "Claims 80M+ US shoppers recognized at checkout",
+            "status": "single_source",
+            "refs": [
+              11
+            ],
+            "note": "Company claim, as reported by a third-party article."
+          }
+        }
+      ]
+    }
+  },
+  "highlights": [
+    "Sacra reports a 1.6% average take rate, versus 0.39% for Stripe.",
+    "Named merchants include Revolve, Benefit Cosmetics, PuppySpot and Polywood.",
+    "Sought $450M at $14B in 2024, a round that did not close",
+    "Up to $27M bridge round in 2026 as a convertible note",
+    "Bolt became Checkout.com's exclusive one-click checkout provider, per a Finextra report (date not confirmed)."
+  ],
+  "not_found": [
+    "CEO: sources conflict (Maju Kuruvilla in older profiles; Ryan Breslow reported back in March 2025)",
+    "Employee count: estimates range from 51 to 765, no verified figure",
+    "Annual net income for bolt.com",
+    "Verified revenue from company filings",
+    "Stock exchange and ticker (private company, no listing)",
+    "Verified current valuation after 2022 round",
+    "No Bolt news dated November 2026 found in search results.",
+    "No founder or CEO departure within the last 24 months found. Ryan Breslow returned as CEO in early 2025, and Maju Kuruvilla's exit was not confirmed.",
+    "No lawsuits, regulatory fines or probes from 2024-11 to 2026-11 found. Fanatics suit settled in September 2024, just outside the window. SEC probe closed in 2023.",
+    "No dated BigCommerce instant-checkout partnership date confirmed.",
+    "Bolt's independent market share or ranking among checkout providers in 2026",
+    "Independent verification of Bolt's 80M+ shopper figure"
+  ],
+  "sources": [
+    {
+      "id": 1,
+      "url": "https://www.cbinsights.com/company/boltcom",
+      "host": "cbinsights.com",
+      "tier": 3,
+      "title": "Bolt company profile",
+      "publisher": "CB Insights",
+      "published": null
+    },
+    {
+      "id": 2,
+      "url": "https://www.wikipedia.org/wiki/Bolt_Financial",
+      "host": "wikipedia.org",
+      "tier": 3,
+      "title": "Bolt Financial",
+      "publisher": "Wikipedia",
+      "published": null
+    },
+    {
+      "id": 3,
+      "url": "https://sacra.com/c/bolt",
+      "host": "sacra.com",
+      "tier": 3,
+      "title": "Bolt company profile",
+      "publisher": "Sacra",
+      "published": null
+    },
+    {
+      "id": 4,
+      "url": "https://www.cbinsights.com/company/boltcom/customers",
+      "host": "cbinsights.com",
+      "tier": 3,
+      "title": "Bolt customers",
+      "publisher": "CB Insights",
+      "published": null
+    },
+    {
+      "id": 5,
+      "url": "https://help.bolt.com/get-started/what-is-bolt",
+      "host": "help.bolt.com",
+      "tier": 1,
+      "title": "What is Bolt?",
+      "publisher": "Bolt Help Center",
+      "published": null
+    },
+    {
+      "id": 6,
+      "url": "https://www.bloomberg.com/news/articles/2022-01-14/e-commerce-startup-bolt-nearly-doubles-valuation-to-11-billion",
+      "host": "bloomberg.com",
+      "tier": 2,
+      "title": "E-commerce startup Bolt nearly doubles valuation to $11 billion",
+      "publisher": "Bloomberg",
+      "published": null
+    },
+    {
+      "id": 7,
+      "url": "https://www.businesstoday.in/amp/technology/startups/story/they-were-creating-problems-that-didnt-exist-why-bolt-fired-its-entire-hr-team-532883-2026-05-22",
+      "host": "businesstoday.in",
+      "tier": 2,
+      "title": "'They were creating problems that didn't exist': Why Bolt fired its entire HR team",
+      "publisher": "Business Today",
+      "published": "2026-05-22"
+    },
+    {
+      "id": 8,
+      "url": "https://www.pymnts.com/digital-payments/2026/bolt-cuts-third-of-staff-amid-new-ai-focus/",
+      "host": "pymnts.com",
+      "tier": 2,
+      "title": "Bolt Cuts Third of Staff Amid New AI Focus",
+      "publisher": "PYMNTS",
+      "published": "2026-04"
+    },
+    {
+      "id": 9,
+      "url": "https://www.crowdfundinsider.com/2026/04/271579-fintech-firm-bolt-announces-layoffs-as-company-struggles-to-cover-operational-costs/",
+      "host": "crowdfundinsider.com",
+      "tier": 3,
+      "title": "Fintech Firm Bolt Announces Layoffs as Company Struggles to Cover Operational Costs",
+      "publisher": "Crowdfund Insider",
+      "published": "2026-04"
+    },
+    {
+      "id": 10,
+      "url": "https://bolt.com/news",
+      "host": "bolt.com",
+      "tier": 1,
+      "title": "Bolt newsroom",
+      "publisher": "Bolt",
+      "published": "2026-01"
+    },
+    {
+      "id": 11,
+      "url": "https://wiserreview.com/blog/bolt-checkout-alternatives/",
+      "host": "wiserreview.com",
+      "tier": 3,
+      "title": "9 Bolt Checkout Alternatives You Already Carry (2026)",
+      "publisher": "Wiser Review",
+      "published": null
+    },
+    {
+      "id": 12,
+      "url": "https://www.trustradius.com/compare-products/bolt-vs-checkout-com",
+      "host": "trustradius.com",
+      "tier": 3,
+      "title": "Bolt vs. Checkout.com",
+      "publisher": "TrustRadius",
+      "published": null
+    }
+  ],
+  "stats": {
+    "verified": 7,
+    "single_source": 20,
+    "not_found": 4,
+    "sources": 12
+  },
+  "problems": []
+}

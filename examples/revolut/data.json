@@ -1,0 +1,438 @@
+{
+  "sections": {
+    "company": {
+      "name": "Revolut",
+      "website": "https://www.revolut.com",
+      "linkedin_url": null,
+      "positioning": {
+        "value": "Presents itself as a global financial app with banking, trading and crypto",
+        "status": "verified",
+        "refs": [
+          1
+        ],
+        "note": ""
+      },
+      "one_liner": {
+        "value": "Global neobank and fintech app for personal and business customers",
+        "status": "verified",
+        "refs": [
+          1,
+          2
+        ],
+        "note": ""
+      },
+      "founded": {
+        "value": "2015",
+        "status": "single_source",
+        "refs": [
+          2
+        ],
+        "note": "Founded 1 July 2015"
+      },
+      "hq": {
+        "value": "London, UK",
+        "status": "single_source",
+        "refs": [
+          2
+        ],
+        "note": ""
+      },
+      "ceo": {
+        "value": "Nikolay Storonsky",
+        "status": "verified",
+        "refs": [
+          3
+        ],
+        "note": "Co-founder and CEO"
+      },
+      "employees": {
+        "value": "~10,000",
+        "status": "single_source",
+        "refs": [
+          2
+        ],
+        "note": "2024 figure"
+      },
+      "business_model": {
+        "value": null,
+        "status": "not_found",
+        "refs": [],
+        "note": ""
+      },
+      "customers": {
+        "value": "80+ million personal, 800K+ business",
+        "status": "verified",
+        "refs": [
+          1
+        ],
+        "note": "Per Revolut About page"
+      },
+      "products": [
+        {
+          "name": "Banking and cards",
+          "what": "Current accounts, cards and payments in one app",
+          "fact": {
+            "value": null,
+            "status": "not_found",
+            "refs": [],
+            "note": ""
+          }
+        },
+        {
+          "name": "Trading and crypto",
+          "what": "Stock trading and crypto buying within the app",
+          "fact": {
+            "value": null,
+            "status": "not_found",
+            "refs": [],
+            "note": ""
+          }
+        },
+        {
+          "name": "Business accounts",
+          "what": "Business expenses and payments for companies",
+          "fact": {
+            "value": null,
+            "status": "not_found",
+            "refs": [],
+            "note": ""
+          }
+        },
+        {
+          "name": "Loans and Pay Later",
+          "what": "Credit products offered to personal customers",
+          "fact": {
+            "value": null,
+            "status": "not_found",
+            "refs": [],
+            "note": ""
+          }
+        }
+      ]
+    },
+    "money": {
+      "listed": {
+        "is_listed": false
+      },
+      "revenue": {
+        "value": "$6.0B",
+        "status": "verified",
+        "refs": [
+          4
+        ],
+        "note": "up 46% from 2024",
+        "metric": "revenue",
+        "period": "FY2025"
+      },
+      "profit": {
+        "value": "$2.3B",
+        "status": "verified",
+        "refs": [
+          4
+        ],
+        "note": "up 57%, PBT margin 38%",
+        "metric": "pre-tax profit",
+        "period": "FY2025"
+      },
+      "market_cap_or_valuation": {
+        "value": "$115B",
+        "status": "verified",
+        "refs": [
+          5
+        ],
+        "note": "latest priced round, private"
+      },
+      "total_funding": {
+        "value": null,
+        "status": "not_found",
+        "refs": [],
+        "note": ""
+      },
+      "last_round": {
+        "value": "$115B valuation round",
+        "status": "verified",
+        "refs": [
+          5
+        ],
+        "note": "share sale; amount undisclosed"
+      },
+      "last_round_date": "2026-11",
+      "down_round": {
+        "value": "No",
+        "status": "verified",
+        "refs": [
+          5,
+          6
+        ],
+        "note": "$115B vs prior $75B (Nov 2025)"
+      },
+      "investors": {
+        "value": "Coatue, Durable Capital, T. Rowe Price, Baillie Gifford",
+        "status": "verified",
+        "refs": [
+          5
+        ],
+        "note": "lead investors, latest round"
+      }
+    },
+    "news": {
+      "items": [
+        {
+          "date": "2026-11-04",
+          "headline": "Revolut completes fundraising at $115 billion valuation",
+          "fact": {
+            "value": "Revolut completed its fundraising process, establishing a $115 billion valuation",
+            "status": "verified",
+            "refs": [
+              5
+            ],
+            "note": ""
+          }
+        },
+        {
+          "date": "2026-04-07",
+          "headline": "Italian regulator fines Revolut €11.5m over misleading trading ads",
+          "fact": {
+            "value": "Italian competition watchdog fined Revolut about €11.5 million; Revolut disputes it and plans to appeal",
+            "status": "single_source",
+            "refs": [
+              7
+            ],
+            "note": ""
+          }
+        }
+      ],
+      "red_flags": [
+        {
+          "category": "founder_departure",
+          "flag": "Co-founder Vlad Yatsenko to step down as CTO, effective 1 July 2026",
+          "severity": "low",
+          "fact": {
+            "value": "Co-founder Vlad Yatsenko steps down as CTO effective 1 July 2026; moves to non-executive board role",
+            "status": "single_source",
+            "refs": [
+              8
+            ],
+            "note": "Announcement date not confirmed in source"
+          }
+        },
+        {
+          "category": "legal_regulatory",
+          "flag": "Italian regulator fined €11.5m over misleading ads, Apr 2026",
+          "severity": "medium",
+          "fact": {
+            "value": "Italian competition watchdog fined about €11.5 million over misleading 0% commission trading ads",
+            "status": "single_source",
+            "refs": [
+              7
+            ],
+            "note": "Revolut disputes the findings"
+          }
+        },
+        {
+          "category": "legal_regulatory",
+          "flag": "Lithuania fined €3.5m over money laundering monitoring, Apr 2025",
+          "severity": "medium",
+          "fact": {
+            "value": "Bank of Lithuania fined Revolut €3.5 million over money laundering control shortcomings",
+            "status": "single_source",
+            "refs": [
+              9
+            ],
+            "note": "Revolut said no confirmed money laundering instances were identified"
+          }
+        }
+      ]
+    },
+    "market": {
+      "category": {
+        "value": "Digital banking and fintech app for consumers and businesses",
+        "status": "verified",
+        "refs": [
+          10
+        ],
+        "note": ""
+      },
+      "position": {
+        "value": "1 in 5 working-age adults in Europe use Revolut",
+        "status": "verified",
+        "refs": [
+          10
+        ],
+        "note": "Company-reported 2025 figure"
+      },
+      "competitors": [
+        {
+          "name": "Monzo",
+          "website": "monzo.com",
+          "why": "UK digital current accounts for everyday banking",
+          "fact": {
+            "value": null,
+            "status": "not_found",
+            "refs": [],
+            "note": ""
+          }
+        },
+        {
+          "name": "Starling Bank",
+          "website": "starlingbank.com",
+          "why": "UK app-based current accounts for everyday banking",
+          "fact": {
+            "value": null,
+            "status": "not_found",
+            "refs": [],
+            "note": ""
+          }
+        },
+        {
+          "name": "Wise",
+          "website": "wise.com",
+          "why": "Cross-border money transfers and currency accounts",
+          "fact": {
+            "value": null,
+            "status": "not_found",
+            "refs": [],
+            "note": ""
+          },
+          "src": [
+            3
+          ]
+        },
+        {
+          "name": "Airwallex",
+          "website": "airwallex.com",
+          "why": "Business accounts and cross-border payments",
+          "fact": {
+            "value": null,
+            "status": "not_found",
+            "refs": [],
+            "note": ""
+          }
+        }
+      ],
+      "edge": []
+    }
+  },
+  "highlights": [
+    "Holds banking licences in 30+ countries and supports 160+ countries and regions",
+    "Received a Bank of Lithuania banking licence in 2018",
+    "Revolut has been profitable for five consecutive years, per 2025 coverage",
+    "Customer base reached 68.3m users in 2025",
+    "Prior $75B round in Nov 2025 included NVIDIA's NVentures"
+  ],
+  "not_found": [
+    "Official LinkedIn company page URL",
+    "Business model details",
+    "Product-level pricing or user numbers",
+    "Total funding raised (amount not disclosed by company)",
+    "Stock ticker and listing (not listed)",
+    "Net income exact figure from primary company source",
+    "Exact date of the $115B round beyond November 2026 reporting",
+    "No 2026 layoff reports found in search results",
+    "No data breach or security incident found in search results",
+    "No short-seller report or financial restatement found in search results",
+    "No licence trouble found beyond routine banking licence news; New Zealand licence (3 Nov 2026) not verified by a fetched source",
+    "Global market share figure for Revolut",
+    "Independent global ranking by revenue or customers",
+    "Competitor revenue or customer counts"
+  ],
+  "sources": [
+    {
+      "id": 1,
+      "url": "https://revolut.com/about",
+      "host": "revolut.com",
+      "tier": 1,
+      "title": "Revolut About (revolut.com)",
+      "publisher": "revolut.com",
+      "published": null
+    },
+    {
+      "id": 2,
+      "url": "https://www.wikipedia.com/wiki/Revolut",
+      "host": "wikipedia.com",
+      "tier": 3,
+      "title": "Revolut - Wikipedia",
+      "publisher": "wikipedia.com",
+      "published": null
+    },
+    {
+      "id": 3,
+      "url": "https://www.revolut.com/en-US/leadership-and-governance",
+      "host": "revolut.com",
+      "tier": 1,
+      "title": "Revolut Leadership and Governance",
+      "publisher": "revolut.com",
+      "published": null
+    },
+    {
+      "id": 4,
+      "url": "https://www.revolut.com/en-AT/news/revolut_reports_record_profit_of_2_3bn_for_2025_as_revenue_surges_to_6bn/",
+      "host": "revolut.com",
+      "tier": 1,
+      "title": "Revolut reports record profit of $2.3bn for 2025 as revenue surges to $6bn",
+      "publisher": "revolut.com",
+      "published": null
+    },
+    {
+      "id": 5,
+      "url": "https://www.revolut.com/en-BE/news/revolut_completes_fundraising_process_establishing_115_billion_valuation/",
+      "host": "revolut.com",
+      "tier": 1,
+      "title": "Revolut completes fundraising process establishing $115 billion valuation",
+      "publisher": "revolut.com",
+      "published": null
+    },
+    {
+      "id": 6,
+      "url": "https://www.revolut.com/news/revolut_completes_fundraising_process_establishing_75_billion_valuation/",
+      "host": "revolut.com",
+      "tier": 1,
+      "title": "Revolut Completes Fundraising Process Establishing $75 Billion Valuation",
+      "publisher": "revolut.com",
+      "published": null
+    },
+    {
+      "id": 7,
+      "url": "https://fintech.global/2026/04/07/revolut-faces-e11-5m-penalty-over-fee-claims/",
+      "host": "fintech.global",
+      "tier": 2,
+      "title": "Revolut faces €11.5m penalty over fee claims",
+      "publisher": "fintech.global",
+      "published": null
+    },
+    {
+      "id": 8,
+      "url": "https://thenextweb.com/news/revolut-cto-yatsenko-steps-down",
+      "host": "thenextweb.com",
+      "tier": 2,
+      "title": "Revolut co-founder and first employee steps down as CTO",
+      "publisher": "thenextweb.com",
+      "published": null
+    },
+    {
+      "id": 9,
+      "url": "https://www.irishtimes.com/business/2025/04/08/revolut-fined-35m-by-over-money-laundering-control-failures",
+      "host": "irishtimes.com",
+      "tier": 2,
+      "title": "Revolut fined €3.5m by Lithuania over money laundering control failures",
+      "publisher": "irishtimes.com",
+      "published": null
+    },
+    {
+      "id": 10,
+      "url": "https://revolut.com/en-NZ/annual-report-2025",
+      "host": "revolut.com",
+      "tier": 1,
+      "title": "Revolut 2025 Annual Report",
+      "publisher": "revolut.com",
+      "published": null
+    }
+  ],
+  "stats": {
+    "verified": 13,
+    "single_source": 7,
+    "not_found": 10,
+    "sources": 10
+  },
+  "problems": []
+}

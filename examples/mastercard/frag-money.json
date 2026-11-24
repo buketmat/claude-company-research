@@ -1,0 +1,48 @@
+{
+  "money": {
+    "listed": {"is_listed": true, "exchange": "NYSE", "ticker": "MA"},
+    "revenue": {
+      "value": "$32.8B",
+      "status": "single_source",
+      "sources": [{"url": "https://stockanalysis.com/stocks/ma/financials/income-statement/", "title": "Mastercard Incorporated (MA) Income Statement", "publisher": "StockAnalysis", "tier": 3}],
+      "note": "FY2025, up 16.4%"
+    },
+    "profit": {
+      "value": "$15.0B",
+      "status": "single_source",
+      "sources": [{"url": "https://stockanalysis.com/stocks/ma/financials/income-statement/", "title": "Mastercard Incorporated (MA) Income Statement", "publisher": "StockAnalysis", "tier": 3}],
+      "note": "FY2025 net income"
+    },
+    "market_cap_or_valuation": {
+      "value": null,
+      "status": "not_found",
+      "sources": [],
+      "note": "Quotes conflict and are undated"
+    },
+    "total_funding": {"value": null, "status": "not_found", "sources": [], "note": "Publicly listed company"},
+    "last_round": {"value": null, "status": "not_found", "sources": [], "note": "Publicly listed company"},
+    "last_round_date": null,
+    "down_round": {
+      "value": null,
+      "status": "not_found",
+      "sources": [],
+      "note": "No Mastercard down round found"
+    },
+    "investors": {
+      "value": "Vanguard index funds",
+      "status": "single_source",
+      "sources": [{"url": "https://finance.yahoo.com/quote/ma/holders", "title": "Mastercard (MA) Holders", "publisher": "Yahoo Finance", "tier": 3}],
+      "note": "Vanguard Total Stock Market Index about 25M shares, June 2026"
+    }
+  },
+  "highlights": [
+    "Q1 2026 net revenue reached $8.4B, up from $7.25B a year earlier",
+    "Q1 2026 net income rose to $3.88B from $3.28B a year earlier"
+  ],
+  "not_found": [
+    "Current market cap or valuation (sources conflict and are undated)",
+    "Total funding and last funding round (publicly listed)",
+    "Last round date (publicly listed)",
+    "Down round status (no Mastercard down round found)"
+  ]
+}

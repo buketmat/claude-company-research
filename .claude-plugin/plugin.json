@@ -1,0 +1,20 @@
+{
+  "name": "brief-company-research-agent",
+  "displayName": "Brief Company Research Agent",
+  "version": "1.4.0",
+  "description": "A brief, sourced research report on any company in about 20 seconds: what it does, the numbers, main competitors, news and red flags, as a live web page plus PDF and Word downloads. No API keys needed.",
+  "author": {
+    "name": "buketmat"
+  },
+  "repository": "https://github.com/buketmat/brief-company-research-agent",
+  "license": "MIT",
+  "keywords": [
+    "company-research",
+    "company-brief",
+    "research-agent",
+    "due-diligence",
+    "competitors",
+    "startups",
+    "red-flags"
+  ]
+}

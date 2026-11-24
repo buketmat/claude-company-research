@@ -1,0 +1,120 @@
+{
+  "company": {
+    "name": "Bolt",
+    "website": "https://www.bolt.com",
+    "linkedin_url": "https://www.linkedin.com/company/bolt-com",
+    "positioning": {
+      "value": "Checkout technology company for ecommerce merchants",
+      "status": "single_source",
+      "sources": [
+        {"url": "https://www.cbinsights.com/company/boltcom", "title": "Bolt company profile", "publisher": "CB Insights", "tier": 3}
+      ],
+      "note": "Third-party profile; homepage not fetched"
+    },
+    "one_liner": {
+      "value": "One-click checkout and fraud services for ecommerce merchants",
+      "status": "single_source",
+      "sources": [
+        {"url": "https://www.cbinsights.com/company/boltcom", "title": "Bolt company profile", "publisher": "CB Insights", "tier": 3}
+      ],
+      "note": "Third-party descriptions; homepage not fetched"
+    },
+    "founded": {
+      "value": "2014",
+      "status": "single_source",
+      "sources": [
+        {"url": "https://www.wikipedia.org/wiki/Bolt_Financial", "title": "Bolt Financial", "publisher": "Wikipedia", "tier": 3}
+      ],
+      "note": "January 2014, San Francisco"
+    },
+    "hq": {
+      "value": "San Francisco",
+      "status": "single_source",
+      "sources": [
+        {"url": "https://www.wikipedia.org/wiki/Bolt_Financial", "title": "Bolt Financial", "publisher": "Wikipedia", "tier": 3}
+      ]
+    },
+    "ceo": {
+      "value": null,
+      "status": "not_found",
+      "sources": [],
+      "note": "Reports conflict; not verified"
+    },
+    "employees": {
+      "value": null,
+      "status": "not_found",
+      "sources": [],
+      "note": "Estimates range from 51 to 765; not verified"
+    },
+    "business_model": {
+      "value": "Takes a cut of processed transactions; sells fraud services",
+      "status": "single_source",
+      "sources": [
+        {"url": "https://sacra.com/c/bolt", "title": "Bolt company profile", "publisher": "Sacra", "tier": 3}
+      ],
+      "note": "Average take rate 1.6%, per Sacra"
+    },
+    "customers": {
+      "value": "Revolve, Benefit Cosmetics, Kendra Scott",
+      "status": "single_source",
+      "sources": [
+        {"url": "https://www.cbinsights.com/company/boltcom/customers", "title": "Bolt customers", "publisher": "CB Insights", "tier": 3}
+      ],
+      "note": "Mostly online fashion and beauty retailers; third-party lists"
+    },
+    "products": [
+      {
+        "name": "Checkout",
+        "what": "One-click checkout and account creation on the merchant's site",
+        "fact": {
+          "value": "All-in-one checkout layer on existing merchant sites",
+          "status": "single_source",
+          "sources": [
+            {"url": "https://help.bolt.com/get-started/what-is-bolt", "title": "What is Bolt?", "publisher": "Bolt Help Center", "tier": 1}
+          ]
+        }
+      },
+      {
+        "name": "Bolt Ignite",
+        "what": "Modular checkout where merchants choose individual components",
+        "fact": {
+          "value": "Modular option; merchants pick individual pieces",
+          "status": "single_source",
+          "sources": [
+            {"url": "https://help.bolt.com/get-started/what-is-bolt", "title": "What is Bolt?", "publisher": "Bolt Help Center", "tier": 1}
+          ]
+        }
+      },
+      {
+        "name": "Fraud services",
+        "what": "Fraud screening with chargeback coverage on orders",
+        "fact": {
+          "value": "Includes chargeback coverage",
+          "status": "single_source",
+          "sources": [
+            {"url": "https://help.bolt.com/get-started/what-is-bolt", "title": "What is Bolt?", "publisher": "Bolt Help Center", "tier": 1}
+          ]
+        }
+      },
+      {
+        "name": "Bolt SSO Commerce",
+        "what": "Listed product; description not verified",
+        "fact": {
+          "value": "Listed by CB Insights as a Bolt product",
+          "status": "single_source",
+          "sources": [
+            {"url": "https://www.cbinsights.com/company/boltcom", "title": "Bolt company profile", "publisher": "CB Insights", "tier": 3}
+          ]
+        }
+      }
+    ]
+  },
+  "highlights": [
+    "Sacra reports a 1.6% average take rate, versus 0.39% for Stripe.",
+    "Named merchants include Revolve, Benefit Cosmetics, PuppySpot and Polywood."
+  ],
+  "not_found": [
+    "CEO: sources conflict (Maju Kuruvilla in older profiles; Ryan Breslow reported back in March 2025)",
+    "Employee count: estimates range from 51 to 765, no verified figure"
+  ]
+}

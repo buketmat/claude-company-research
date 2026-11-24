@@ -1,0 +1,10 @@
+company-briefs/
+__pycache__/
+*.pyc
+.DS_Store
+*.tmp
+.started
+# old test runs from earlier versions (not for publishing)
+examples/tavily-2026-11-24/
+examples/mastercard-2026-11-24/
+design-options/

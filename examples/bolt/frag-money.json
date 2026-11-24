@@ -1,0 +1,56 @@
+{
+  "money": {
+    "listed": {"is_listed": false, "exchange": null, "ticker": null},
+    "revenue": {
+      "value": "$27M",
+      "status": "single_source",
+      "sources": [{"url": "https://sacra.com/c/bolt", "title": "Bolt company profile and estimates", "publisher": "Sacra", "tier": 3}],
+      "note": "2023 third-party estimate, up 4%"
+    },
+    "profit": {"value": null, "status": "not_found", "sources": []},
+    "market_cap_or_valuation": {
+      "value": "$11B",
+      "status": "verified",
+      "sources": [
+        {"url": "https://www.bloomberg.com/news/articles/2022-01-14/e-commerce-startup-bolt-nearly-doubles-valuation-to-11-billion", "title": "E-commerce startup Bolt nearly doubles valuation to $11 billion", "publisher": "Bloomberg", "tier": 2},
+        {"url": "https://www.cbinsights.com/company/boltcom", "title": "Bolt (boltcom) company profile", "publisher": "CB Insights", "tier": 3}
+      ],
+      "note": "Jan 2022 round; later estimates far lower"
+    },
+    "total_funding": {
+      "value": "$1.013B",
+      "status": "single_source",
+      "sources": [{"url": "https://www.cbinsights.com/company/boltcom", "title": "Bolt (boltcom) company profile", "publisher": "CB Insights", "tier": 3}],
+      "note": "Sacra reports $963M instead"
+    },
+    "last_round": {
+      "value": "$355M Series E",
+      "status": "single_source",
+      "sources": [{"url": "https://www.bloomberg.com/news/articles/2022-01-14/e-commerce-startup-bolt-nearly-doubles-valuation-to-11-billion", "title": "E-commerce startup Bolt nearly doubles valuation to $11 billion", "publisher": "Bloomberg", "tier": 2}],
+      "note": "Priced round, January 2022"
+    },
+    "last_round_date": "2022-01",
+    "down_round": {
+      "value": "No",
+      "status": "single_source",
+      "sources": [{"url": "https://www.bloomberg.com/news/articles/2022-01-14/e-commerce-startup-bolt-nearly-doubles-valuation-to-11-billion", "title": "E-commerce startup Bolt nearly doubles valuation to $11 billion", "publisher": "Bloomberg", "tier": 2}],
+      "note": "2022 round up from about $6B in 2021"
+    },
+    "investors": {
+      "value": "BlackRock funds, Schonfeld, Invus",
+      "status": "single_source",
+      "sources": [{"url": "https://www.bloomberg.com/news/articles/2022-01-14/e-commerce-startup-bolt-nearly-doubles-valuation-to-11-billion", "title": "E-commerce startup Bolt nearly doubles valuation to $11 billion", "publisher": "Bloomberg", "tier": 2}],
+      "note": "Also CreditEase, H.I.G. Growth, Activant Capital"
+    }
+  },
+  "highlights": [
+    "Sought $450M at $14B in 2024, a round that did not close",
+    "Up to $27M bridge round in 2026 as a convertible note"
+  ],
+  "not_found": [
+    "Annual net income for bolt.com",
+    "Verified revenue from company filings",
+    "Stock exchange and ticker (private company, no listing)",
+    "Verified current valuation after 2022 round"
+  ]
+}

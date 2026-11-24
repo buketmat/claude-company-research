@@ -1,0 +1,124 @@
+{
+  "news": {
+    "items": [
+      {
+        "date": "2026-05-22",
+        "headline": "CEO Breslow says Bolt let its entire HR team go",
+        "fact": {
+          "value": "Ryan Breslow said Bolt fired its entire HR team, calling them 'creating problems that didn't exist'",
+          "status": "single_source",
+          "sources": [
+            {
+              "url": "https://www.businesstoday.in/amp/technology/startups/story/they-were-creating-problems-that-didnt-exist-why-bolt-fired-its-entire-hr-team-532883-2026-05-22",
+              "title": "'They were creating problems that didn't exist': Why Bolt fired its entire HR team",
+              "publisher": "Business Today",
+              "tier": 2,
+              "published": "2026-05-22"
+            }
+          ],
+          "note": "Date taken from the article URL. Breslow's remarks were made at a Fortune event, per a second search result."
+        }
+      },
+      {
+        "date": "2026-04",
+        "headline": "Bolt cuts about a third of staff, citing AI and leaner structure",
+        "fact": {
+          "value": "Bolt cut roughly a third of its staff in April 2026, citing AI",
+          "status": "verified",
+          "sources": [
+            {
+              "url": "https://www.pymnts.com/digital-payments/2026/bolt-cuts-third-of-staff-amid-new-ai-focus/",
+              "title": "Bolt Cuts Third of Staff Amid New AI Focus",
+              "publisher": "PYMNTS",
+              "tier": 2,
+              "published": "2026-04"
+            },
+            {
+              "url": "https://www.crowdfundinsider.com/2026/04/271579-fintech-firm-bolt-announces-layoffs-as-company-struggles-to-cover-operational-costs/",
+              "title": "Fintech Firm Bolt Announces Layoffs as Company Struggles to Cover Operational Costs",
+              "publisher": "Crowdfund Insider",
+              "tier": 3,
+              "published": "2026-04"
+            }
+          ],
+          "note": "Exact day not confirmed. One report says fewer than 40 people were affected, and another says about 30%. Treat as about a third."
+        }
+      },
+      {
+        "date": "2026-01",
+        "headline": "Bolt adds Affirm buy-now-pay-later options to its checkout network",
+        "fact": {
+          "value": "Bolt selected Affirm as embedded buy-now-pay-later partner across its one-click checkout network",
+          "status": "single_source",
+          "sources": [
+            {
+              "url": "https://bolt.com/news",
+              "title": "Bolt newsroom",
+              "publisher": "Bolt",
+              "tier": 1,
+              "published": "2026-01"
+            }
+          ],
+          "note": "Company newsroom lists the Affirm partnership dated January 27. The year is inferred from the 2026 listing."
+        }
+      }
+    ],
+    "red_flags": [
+      {
+        "category": "layoffs",
+        "flag": "Cut about a third of staff, citing AI, April 2026",
+        "severity": "high",
+        "fact": {
+          "value": "Bolt cut roughly a third of its staff in April 2026, citing AI; described as the fourth round since 2022",
+          "status": "verified",
+          "sources": [
+            {
+              "url": "https://www.pymnts.com/digital-payments/2026/bolt-cuts-third-of-staff-amid-new-ai-focus/",
+              "title": "Bolt Cuts Third of Staff Amid New AI Focus",
+              "publisher": "PYMNTS",
+              "tier": 2,
+              "published": "2026-04"
+            },
+            {
+              "url": "https://www.crowdfundinsider.com/2026/04/271579-fintech-firm-bolt-announces-layoffs-as-company-struggles-to-cover-operational-costs/",
+              "title": "Fintech Firm Bolt Announces Layoffs as Company Struggles to Cover Operational Costs",
+              "publisher": "Crowdfund Insider",
+              "tier": 3,
+              "published": "2026-04"
+            }
+          ],
+          "note": "Exact day not confirmed."
+        }
+      },
+      {
+        "category": "layoffs",
+        "flag": "Fired entire HR team, per CEO remarks, May 2026",
+        "severity": "medium",
+        "fact": {
+          "value": "CEO Ryan Breslow said Bolt let go its entire HR team in May 2026",
+          "status": "single_source",
+          "sources": [
+            {
+              "url": "https://www.businesstoday.in/amp/technology/startups/story/they-were-creating-problems-that-didnt-exist-why-bolt-fired-its-entire-hr-team-532883-2026-05-22",
+              "title": "'They were creating problems that didn't exist': Why Bolt fired its entire HR team",
+              "publisher": "Business Today",
+              "tier": 2,
+              "published": "2026-05-22"
+            }
+          ],
+          "note": "Single source. Date taken from the article URL."
+        }
+      }
+    ]
+  },
+  "highlights": [
+    "Bolt became Checkout.com's exclusive one-click checkout provider, per a Finextra report (date not confirmed).",
+    "Bolt added Affirm as its embedded buy-now-pay-later partner across its one-click checkout network in January 2026."
+  ],
+  "not_found": [
+    "No Bolt news dated November 2026 found in search results.",
+    "No founder or CEO departure within the last 24 months found. Ryan Breslow returned as CEO in early 2025, and Maju Kuruvilla's exit was not confirmed.",
+    "No lawsuits, regulatory fines or probes from 2024-11 to 2026-11 found. Fanatics suit settled in September 2024, just outside the window. SEC probe closed in 2023.",
+    "No dated BigCommerce instant-checkout partnership date confirmed."
+  ]
+}
